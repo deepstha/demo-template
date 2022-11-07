@@ -17,7 +17,7 @@
   },
   "homepage": "https://gitlab.com/deepstha/Demography#README",
   "devDependencies": {
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-imagemin": "^5.0.3",
     "gulp-uglify": "^3.0.0",
     "node-sass": "^4.9.2"
